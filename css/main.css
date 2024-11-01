@@ -1,0 +1,26 @@
+/* input[type=text] {
+    border: none;
+    background: transparent;
+} */
+
+.btn-primary,
+.text-primary {
+    color: #0073AA !important;
+}
+
+.btn-primary:hover {
+    color: #1cabdb !important;
+}
+
+.thead_color {
+    background-color: #0073AA !important;
+}
+
+.pagHover:hover {
+    color: #0073AA !important;
+}
+
+li .disabled {
+    pointer-events: none;
+    opacity: 0.7;
+}
